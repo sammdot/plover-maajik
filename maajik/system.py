@@ -9,7 +9,7 @@
 KEYS = (
   "#",
   "H-", "S-", "D-", "G-", "B-", "a-", "i-", "e-", "*-", "g-", "n-",
-  "-H", "-S", "-D", "-G", "-B", "-a", "-i", "-e", "-*", "-n", "-g",
+  "-H", "-S", "-D", "-G", "-B", "-a", "-i", "-e", "-*", "-g", "-n",
 )
 # fmt: on
 
@@ -96,5 +96,10 @@ KEYMAPS = {
   },
 }
 
-DICTIONARIES_ROOT = None
-DEFAULT_DICTIONARIES = ()
+DICTIONARIES_ROOT = "asset:maajik:dictionaries"
+DEFAULT_DICTIONARIES = [
+  "commands.json",
+  "punctuation.json",
+  "briefs.json",
+  "main.json",
+]
