@@ -4,8 +4,10 @@ version = "1.0.0-beta1"
 description = "Cantonese steno system plugin for Plover"
 readme = "README.md"
 requires-python = ">= 3.7"
+license = { file = "LICENSE" }
 authors = [
   { name = "Sammi de Guzman", email = "sammi@sammdot.ca" },
+  { name = "Samuel Lo" },
 ]
 keywords = [
   "plover",
