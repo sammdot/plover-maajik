@@ -1,7 +1,7 @@
 # MaaJik / 孖翼
 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/sammdot/plover-maajik)
-![PyPI](https://img.shields.io/pypi/v/plover-maajik)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/sammdot/plover-maajik)](https://github.com/sammdot/plover-maajik/releases/latest)
+[![PyPI](https://img.shields.io/pypi/v/plover-maajik)](https://pypi.org/project/plover-maajik)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/sammdot/plover-maajik/build)
 ![GitHub](https://img.shields.io/github/license/sammdot/plover-maajik)
 
