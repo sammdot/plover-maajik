@@ -1,6 +1,6 @@
 [project]
 name = "plover-maajik"
-version = "1.0.0-beta1"
+version = "1.0.0-beta2"
 description = "Cantonese steno system plugin for Plover"
 readme = "README.md"
 requires-python = ">= 3.7"
