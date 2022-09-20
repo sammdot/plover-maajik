@@ -1,0 +1,38 @@
+[project]
+name = "plover-maajik"
+version = "1.0.0-beta1"
+description = "Cantonese steno system plugin for Plover"
+readme = "README.md"
+requires-python = ">= 3.7"
+authors = [
+  { name = "Sammi de Guzman", email = "sammi@sammdot.ca" },
+]
+keywords = [
+  "plover",
+  "plover_plugin",
+]
+classifiers = [
+  "Programming Language :: Python :: 3.7",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+]
+dependencies = [
+  "plover >= 4.0.0.dev11",
+]
+
+[project.urls]
+repository = "https://github.com/sammdot/plover-maajik"
+homepage = "https://github.com/sammdot/plover-maajik"
+
+[tool.setuptools]
+packages = ["maajik"]
+
+[build-system]
+requires = [
+  "setuptools >= 61.0.0",
+  "wheel",
+]
+
+[project.entry-points."plover.system"]
+MaaJik = "maajik.system"
