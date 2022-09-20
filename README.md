@@ -1,5 +1,10 @@
 # MaaJik / 孖翼
 
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/sammdot/plover-maajik)
+![PyPI](https://img.shields.io/pypi/v/plover-maajik)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/sammdot/plover-maajik/build)
+![GitHub](https://img.shields.io/github/license/sammdot/plover-maajik)
+
 MaaJik /ma˥ jɪk˨/ (孖翼, "a pair of wings") is a work-in-progress Cantonese
 machine shorthand theory. This repository contains an implementation of it for
 Plover, including a system plugin and dictionaries.
