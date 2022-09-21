@@ -21,6 +21,8 @@ Plover, including a system plugin and dictionaries.
 
 ## Usage
 
-TODO, but for now here's a link to the Steno Explainers:
+See the [documentation](https://github.com/sammdot/plover-maajik/blob/main/docs/README.md) included in this repository for a detailed explanation of how the MaaJik theory works.
+
+A Steno Explainers infographic of the basic phonetic chords is also available:
 
 ![MaaJik Steno Explainers](https://steno.sammdot.ca/maajik.png)
