@@ -98,8 +98,10 @@ KEYMAPS = {
 
 DICTIONARIES_ROOT = "asset:maajik:dictionaries"
 DEFAULT_DICTIONARIES = [
+  "user.json",
   "commands.json",
   "punctuation.json",
   "briefs.json",
-  "main.json",
+  "cangjie.json",
+  "base.json",
 ]

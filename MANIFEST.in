@@ -1,2 +1,3 @@
 include README.md
 include maajik/dictionaries/*.json
+include maajik/dictionaries/*.py
